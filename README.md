@@ -1,12 +1,19 @@
 ```bash
-> initializing profile...
-> loading backend engineer data...
-> access granted
+$ whoami
+
+Saman Mokhtari
+Backend Engineer
+ERP Architect
+
+$ initializing deep-erp...
+[ OK ]
 ```
 
 # Saman Mokhtari
 
 Backend Engineer focused on ERP architecture, automation and scalable systems.
+
+---
 
 ## Stack
 
@@ -16,25 +23,25 @@ Backend Engineer focused on ERP architecture, automation and scalable systems.
 - MySQL
 - REST APIs
 - ERP Development
-- System Architecture
+
+---
 
 ## Current Project
 
-🧠 Deep ERP  
-Enterprise resource planning system designed for scalability and automation.
+🧠 Deep ERP
+
+Enterprise resource planning platform focused on scalability and automation.
+
+---
 
 ## Philosophy
 
 > Good software should feel invisible.
 
-## Tools
+---
 
-- PhpStorm
-- WebStorm
-- PyCharm
-- Linux
-- Git
+## GitHub Stats
 
-## Contact
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanmokhtari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-- GitHub: @samanmokhtari
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanmokhtari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
