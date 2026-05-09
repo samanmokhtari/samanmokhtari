@@ -3,7 +3,7 @@
 > loading backend engineer data...
 > access granted
 ```
-theme=tokyonoght
+
 # Saman Mokhtari
 
 Backend Engineer focused on ERP architecture, automation and scalable systems.
