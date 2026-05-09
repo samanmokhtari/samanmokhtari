@@ -1,4 +1,5 @@
-![banner]![Uploading 55a899e1-6ca2-453c-a536-3daf0b76b306.png…]()
+![banner](<img width="1983" height="793" alt="55a899e1-6ca2-453c-a536-3daf0b76b306" src="https://github.com/user-attachments/assets/43259d5d-8111-421a-b041-6f1086dcd98d" />)
+
 
 ```bash
 $ whoami
