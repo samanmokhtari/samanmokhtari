@@ -1,16 +1,40 @@
-## Hi there 👋
+```bash
+> initializing profile...
+> loading backend engineer data...
+> access granted
+```
 
-<!--
-**samanmokhtari/samanmokhtari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Saman Mokhtari
 
-Here are some ideas to get you started:
+Backend Engineer focused on ERP architecture, automation and scalable systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- PHP
+- Python
+- JavaScript
+- MySQL
+- REST APIs
+- ERP Development
+- System Architecture
+
+## Current Project
+
+🧠 Deep ERP  
+Enterprise resource planning system designed for scalability and automation.
+
+## Philosophy
+
+> Good software should feel invisible.
+
+## Tools
+
+- PhpStorm
+- WebStorm
+- PyCharm
+- Linux
+- Git
+
+## Contact
+
+- GitHub: @samanmokhtari
