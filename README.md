@@ -1,5 +1,12 @@
 ![banner](https://github.com/user-attachments/assets/415f852f-5073-441c-939a-dd27cd9d3d33)
 
+<div align="center">
++ SYSTEM ONLINE
++ INITIALIZING DEEP ERP
++ STATUS: OPERATIONAL
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=ERP+Systems+Engineer;Backend+%26+Infrastructure+Architect;Building+Scalable+Enterprise+Systems;Docker+%7C+Linux+%7C+RabbitMQ+%7C+PostgreSQL" />
+</div>
+
 $ whoami
 
 Saman Mokhtari
