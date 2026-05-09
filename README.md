@@ -1,7 +1,11 @@
+![banner](https://github.com/user-attachments/assets/415f852f-5073-441c-939a-dd27cd9d3d33)
+
 $ whoami
+
 Saman Mokhtari
 ERP Systems Engineer
 Backend & Infrastructure Architect
+
 $ initializing deep-erp...
 [ OK ]
 
@@ -9,17 +13,15 @@ Saman Mokhtari
 
 Backend engineer focused on ERP architecture, automation, scalable infrastructure and distributed systems.
 
-⸻
-
 $ systemctl status deep-erp
+
 ● deep-erp.service - Enterprise ERP Core
      Loaded: loaded
      Active: running
      Status: scalable
 
-⸻
 
-Stack
+     Stack
 
 Backend
 
@@ -110,23 +112,6 @@ services:
   - postgresql
   - github-actions
 
-⸻
-
-GitHub Stats
-
-⸻
-
-Activity Graph
-
-⸻
-
-Trophies
-
-⸻
-
-Tech Badges
-
-⸻
 
 Connect
 
@@ -134,7 +119,6 @@ Connect
 * GitHub
 * Deep ERP
 
-⸻
-
 $ exit
+
 Session terminated.
