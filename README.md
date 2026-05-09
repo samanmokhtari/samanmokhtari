@@ -11,6 +11,7 @@ diff + SYSTEM ONLINE + INITIALIZING DEEP ERP + STATUS: OPERATIONAL
 ---
 
 bash 
+
 $ whoami  
 
 Saman Mokhtari  
@@ -46,19 +47,13 @@ txt Distributed Systems Event-Driven Architecture Workflow Automation Infrastruc
 
 # 🛰️ Infrastructure
 
-bash docker compose up -d  [ OK ] PostgreSQL [ OK ] Redis [ OK ] RabbitMQ [ OK ] Deep ERP Core [ OK ] Nginx Gateway 
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samanmokhtari&show_icons=true&theme=merko&hide_border=true&bg_color=000000"/>
-
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanmokhtari&layout=compact&theme=merko&hide_border=true&bg_color=000000"/>
-</p>
-
+bash 
+docker compose up -d  [ OK ] 
+PostgreSQL [ OK ] 
+Redis [ OK ] 
+RabbitMQ [ OK ] 
+Deep ERP Core [ OK ]
+Nginx Gateway 
 
 ---
 
