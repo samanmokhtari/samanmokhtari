@@ -1,50 +1,140 @@
-![banner](https://github.com/user-attachments/assets/43259d5d-8111-421a-b041-6f1086dcd98d)
-
-
-```bash
 $ whoami
-
 Saman Mokhtari
-Backend Engineer
-ERP Architect
-
+ERP Systems Engineer
+Backend & Infrastructure Architect
 $ initializing deep-erp...
 [ OK ]
-```
 
-# Saman Mokhtari
+Saman Mokhtari
 
-Backend Engineer focused on ERP architecture, automation and scalable systems.
+Backend engineer focused on ERP architecture, automation, scalable infrastructure and distributed systems.
 
----
+⸻
 
-## Stack
+$ systemctl status deep-erp
+● deep-erp.service - Enterprise ERP Core
+     Loaded: loaded
+     Active: running
+     Status: scalable
 
-- PHP
-- Python
-- JavaScript
-- MySQL
-- REST APIs
-- ERP Development
+⸻
 
----
+Stack
 
-## Current Project
+Backend
+
+* PHP
+* Python
+* JavaScript
+
+Infrastructure
+
+* Docker
+* Linux
+* Nginx
+* Redis
+* RabbitMQ
+
+Database
+
+* PostgreSQL
+* MySQL
+
+Architecture
+
+* REST APIs
+* Multi-Tenant Systems
+* Event-Driven Architecture
+* ERP Development
+
+⸻
+
+Current Project
 
 🧠 Deep ERP
 
-Enterprise resource planning platform focused on scalability and automation.
+Enterprise ERP ecosystem focused on:
 
----
+* workflow automation
+* modular architecture
+* scalable backend systems
+* multi-tenant infrastructure
+* event-driven processing
 
-## Philosophy
+⸻
 
-> Good software should feel invisible.
+Architecture Interests
 
----
+* Distributed Systems
+* ERP Scalability
+* Workflow Automation
+* Infrastructure Engineering
+* Backend Performance
+* System Design
 
-## GitHub Stats
+⸻
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanmokhtari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+Philosophy
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanmokhtari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+“Complexity is a liability.”
+
+⸻
+
+Featured Projects
+
+⚡ deep-erp-core
+
+Modular ERP backend architecture.
+
+⚡ erp-event-bus
+
+Event-driven communication layer using RabbitMQ.
+
+⚡ blackgrid-auth
+
+Authentication service with JWT, RBAC and audit logging.
+
+⚡ tenantflow
+
+Multi-tenant infrastructure for enterprise applications.
+
+⸻
+
+Infrastructure & DevOps
+
+services:
+  - docker
+  - nginx
+  - redis
+  - rabbitmq
+  - postgresql
+  - github-actions
+
+⸻
+
+GitHub Stats
+
+⸻
+
+Activity Graph
+
+⸻
+
+Trophies
+
+⸻
+
+Tech Badges
+
+⸻
+
+Connect
+
+* LinkedIn
+* GitHub
+* Deep ERP
+
+⸻
+
+$ exit
+Session terminated.
