@@ -37,4 +37,8 @@ Enterprise resource planning system designed for scalability and automation.
 
 ## Contact
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samanmokhtari&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samanmokhtari&layout=compact&theme=tokyonight)
+
 - GitHub: @samanmokhtari
