@@ -9,13 +9,13 @@ diff + SYSTEM ONLINE + INITIALIZING DEEP ERP + STATUS: OPERATIONAL
 </div>
 
 ---
+┌──(root㉿deep-erp)-[~/system]
+└─$ whoami
 
-bash 
+Saman Mokhtari
 
-$ whoami  
-
-Saman Mokhtari  
-ERP Systems Engineer Backend & Infrastructure Architect 
+ERP Systems Engineer
+Backend & Infrastructure Architect
 
 ---
 
@@ -35,13 +35,48 @@ Enterprise ERP ecosystem focused on:
 
 # 🧠 Stack
 
-txt Backend: PHP Python JavaScript  Infrastructure: Docker Linux Nginx Redis RabbitMQ  Database: PostgreSQL MySQL 
+Backend:
+  - PHP
+  - Python
+  - JavaScript
+
+Infrastructure:
+  - Docker
+  - Linux
+  - Nginx
+  - Redis
+  - RabbitMQ
+
+Database:
+  - PostgreSQL
+  - MySQL
+
+Architecture:
+  - REST APIs
+  - Event-Driven Systems
+  - ERP Development
+  - Multi-Tenant Infrastructure
 
 ---
 
-# ⚙️ Architecture Interests
+# ⚙️ SYSTEM SERVICES
 
-txt Distributed Systems Event-Driven Architecture Workflow Automation Infrastructure Engineering ERP Scalability 
+$ docker compose up -d
+
+[ OK ] PostgreSQL
+[ OK ] Redis
+[ OK ] RabbitMQ
+[ OK ] Deep ERP Core
+[ OK ] Nginx Gateway
+[ OK ] Monitoring Stack
+
+---
+📊 GITHUB STATS
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samanmokhtari&show_icons=true&theme=merko&hide_border=true&bg_color=000000"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanmokhtari&layout=compact&theme=merko&hide_border=true&bg_color=000000"/>
+</p>
 
 ---
 
@@ -95,9 +130,15 @@ activity graph
 </p>
 
 ---
+🧬 PHILOSOPHY
 
-```bash
-$ exit
+$ cat philosophy.txt
+
+"Complexity is a liability."
+---
+
+┌──(root㉿deep-erp)-[~/system]
+└─$ exit
 
 Session terminated.
-`
+``
