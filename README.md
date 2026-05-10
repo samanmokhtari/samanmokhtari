@@ -71,14 +71,6 @@ $ docker compose up -d
 [ OK ] Monitoring Stack
 
 ---
-📊 GITHUB STATS
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samanmokhtari&show_icons=true&theme=merko&hide_border=true&bg_color=000000"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanmokhtari&layout=compact&theme=merko&hide_border=true&bg_color=000000"/>
-</p>
-
----
 
 # 🛰️ Infrastructure
 
